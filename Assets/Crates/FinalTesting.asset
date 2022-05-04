@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 779b1341a65abf34fb895edc734f09d3, type: 3}
+  m_Name: FinalTesting
+  m_EditorClassIdentifier: 
+  crateName: FinalTest
+  commonItemOdds: 1000
+  uncommonItemOdds: 1000
+  rareItemOdds: 1000
+  legendaryItemOdds: 1000
+  mythicItemOdds: 1000
+  itemsCrateHas:
+  - {fileID: 11400000, guid: f0e71fab5360772498be09d063c44ae3, type: 2}
+  - {fileID: 11400000, guid: eca7fd71ce4c6044196d419a6ce919da, type: 2}
+  - {fileID: 11400000, guid: a9f74e8c210788f48aa9a897af6da444, type: 2}
+  - {fileID: 11400000, guid: bfb21e49e3ab065478dc16394dbd1cdf, type: 2}
+  - {fileID: 11400000, guid: 1c4e67bdcb28d254abb75cf06afe0f16, type: 2}
+  - {fileID: 11400000, guid: 9c76012c53d57404a910da6a8d378899, type: 2}
+  - {fileID: 11400000, guid: dddff1c6f209ebe4baf2c760e581a2f2, type: 2}
+  - {fileID: 11400000, guid: af4e0d7bdde5b344fb7e5cf9dde06c90, type: 2}
+  - {fileID: 11400000, guid: b3090a44849513943b7837a35c304156, type: 2}
+  - {fileID: 11400000, guid: c47d909246caa804bbf8c357958659ee, type: 2}
+  - {fileID: 11400000, guid: 1afba14bec8eab64e9a1917a9aa2a944, type: 2}
+  - {fileID: 11400000, guid: ef069bc97ce1ad44d81ba012aff2e150, type: 2}
+  - {fileID: 11400000, guid: 16b2cb28fd9bf89468c27e7fdb9fbe91, type: 2}
+  - {fileID: 11400000, guid: 2f464abb0774471439aedc4d4e629766, type: 2}
+  - {fileID: 11400000, guid: c39c2c2b873dc8f43ab70512097da326, type: 2}
+  - {fileID: 11400000, guid: 1aba654188a9a254fac22e8c9dafe9e6, type: 2}
+  - {fileID: 11400000, guid: 3844fb41a3fb7a64783fda67badde359, type: 2}
+  - {fileID: 11400000, guid: f199d9dc308857f43b32eb33f1547dc3, type: 2}
+  - {fileID: 11400000, guid: b98af2209ee74044283da8579757823d, type: 2}
+  - {fileID: 11400000, guid: 2ad24ab7ffb225648b1a571004772b07, type: 2}
+  - {fileID: 11400000, guid: 4bb6822a802ab234184a905c923327d7, type: 2}
+  - {fileID: 11400000, guid: 18c3473d70e4b624db9e0f705fdfa593, type: 2}
+  - {fileID: 11400000, guid: d4510afb015dc094b80d37149e78f06d, type: 2}
+  CrateOpenCost: 1000
+  LuckFactorIncreaseAfterEachSpin: 4
